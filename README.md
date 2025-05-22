@@ -7,6 +7,7 @@ Final qualifying work on the topic
 "Development of a hardware and software complex for data transmission using Li-Fi technology in the visible spectrum"
 
 //
+
 Федеральное государственное автономное образовательное учреждение высшего образования «Южно-Уральский государственный университет (национальный исследовательский университет)»
 
 Выпускная квалификационная работа на тему
