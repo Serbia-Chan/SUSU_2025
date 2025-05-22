@@ -1,0 +1,119 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2025.05.13 13:50:40 =~=~=~=~=~=~=~=~=~=~=~=
+
+Flag_Message = 0
+ Flag = 1 val = 401
+ Flag = 2 val = 401
+ Flag = 3 val = 399
+ _Start_bin = 11000000 _Start = 192
+ Flag = 1 val = 276
+ Flag = 2 val = 277
+ Flag = 3 val = 277
+ _Start_bin = 10110000 _Start = 176
+ Flag = 1 val = 142
+ Flag = 2 val = 141
+ Flag = 3 val = 142
+ _Start_bin = 1101100 _Start = 108
+ Flag = 1 val = 0
+ Flag = 2 val = 0
+ Flag = 3 val = 0
+ _Start_bin = 11011 _Start = 27
+ Flag = 1 val = 402
+0
+0
+0
+1
+ Flag = 2 val = 401
+0
+0
+0
+11
+ _Packet_bin = 11000000 _Packet = 192
+ Flag = 1 val = 0
+1
+0
+0
+0
+ Flag = 2 val = 0
+11
+0
+0
+0
+ _Packet_bin = 110000 _Packet = 48
+ Flag = 1 val = 142
+0
+1
+0
+0
+ Flag = 2 val = 142
+0
+11
+0
+0
+ _Packet_bin = 1001100 _Packet = 76
+ Flag = 1 val = 276
+0
+0
+1
+0
+ Flag = 2 val = 277
+0
+0
+11
+0
+ _Packet_bin = 10010011 _Packet = 147
+ Flag = 1 val = 401
+0
+0
+0
+1
+ Flag = 2 val = 400
+0
+0
+0
+11
+ _End_bin = 11000000 _End = 192
+ Flag = 1 val = 278
+0
+0
+1
+0
+ Flag = 2 val = 278
+0
+0
+11
+0
+ _End_bin = 10110000 _End = 176
+ Flag = 1 val = 142
+0
+1
+0
+0
+ Flag = 2 val = 142
+0
+11
+0
+0
+ _End_bin = 1101100 _End = 108
+ Flag = 1 val = 0
+1
+0
+0
+0
+ Flag = 2 val = 0
+11
+0
+0
+0
+ _End_bin = 11011 _End = 27
+_Start = 27
+_Packet  = 147
+_End = 27
+    147
+
+Flag_Message = 0
+_Start = 0
+_Packet  = 0
+_End = 0
+
+Flag_Message = 0
+Type_Byte = 0
